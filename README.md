@@ -27,7 +27,7 @@ Response
 
 The LLM answers naturally and informatively, pretending to be you
 
-##💡 Use Cases
+## 💡 Use Cases
 Replace your LinkedIn "About" section with an interactive bot
 
 Share in job applications or emails to let people talk to your profile
